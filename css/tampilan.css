@@ -1,76 +1,78 @@
 <<<<<<< HEAD
-.ilham_navbar{
-	display: flex;
-	justify-content: space-between;
-	position: fixed;
-	top: 0;
-	left: 0;
-	z-index: 13;
-	background-color: #fff;
-	box-shadow: 0 1px 2px 0 rgba(0,0,0,.1);
-	height: 85px;
-	width: 100%;
-
-}
-.ilham_isi-navbar{
-
-}
-.ilham_jarak-navbar{
-	margin-top:10px;
-	margin-bottom: 10px; 
-}
-.ilham_position-sticky{
-	position: sticky;
-	bottom:-5px;
-	font-size: 20px;
-	background: #FFFFFF;
-	border: 1px solid black;
-	
-}
-.ilham_margin-logo{
-	margin: 25px 0px 33px 90px; 
-	
-}
-.ilham_margin-text{
-	margin: 50px 35px 0px 0px ;
-	padding-top: 30px;
-	display: inline;
-	text-align: center;
-	text-decoration: none;
-}
-.ilham_margin-text3{
-	margin: 50px 35px 0px -20px ;
-	padding: 30px 30px 20px 0px;
-	display: inline;
-	text-align: center;
-	text-decoration: none;
-}
-.ilham_margin-text2{
-	margin: 50px 10px 0px -20px ;
-	padding-top: 30px;
-	display: inline;
-	text-align: center;
-	text-decoration: none;
-}
-.ilham_font-navbar{
-	font-family: BrandonGrotesque,sans-serif!important;
-	color: #333333!important;
-	
-}
-.ilham_font-navbar2{
-	font-family: BrandonGrotesque,sans-serif!important;
-	color: #333333!important;
-	border: 1px solid #192c4f;
-	display: inline-block;
-	padding: 2px 3px 0px 3px;
-	margin-right: -15px;
-	border-radius: px;
-	
-}
-.ilham_text-dec{
-	margin :30px 30px 30px 30px;
-
 =======
+.ilham_navbar{
+			display: flex;
+			justify-content: space-between;
+			position: fixed;
+			top: 0;
+			left: 0;
+			z-index: 13;
+			background-color: #fff;
+			box-shadow: 0 1px 2px 0 rgba(0,0,0,.1);
+			height: 85px;
+			width: 100%;
+
+		}
+		.ilham_isi-navbar{
+
+		}
+		.ilham_jarak-navbar{
+			margin-top:10px;
+			margin-bottom: 10px; 
+		}
+		.ilham_position-sticky{
+			position: sticky;
+			bottom:-5px;
+			font-size: 20px;
+			background: #FFFFFF;
+			border: 1px solid black;
+
+		}
+		.ilham_margin-logo{
+			margin: 25px 0px 33px 90px; 
+
+		}
+		.ilham_margin-text{
+			margin: 50px 35px 0px 0px ;
+			padding-top: 30px;
+			display: inline;
+			text-align: center;
+			text-decoration: none;
+		}
+		.ilham_margin-text3{
+			margin: 50px 35px 0px -20px ;
+			padding: 30px 30px 20px 0px;
+			display: inline;
+			text-align: center;
+			text-decoration: none;
+		}
+		.ilham_margin-text2{
+			margin: 50px 10px 0px -20px ;
+			padding-top: 30px;
+			display: inline;
+			text-align: center;
+			text-decoration: none;
+		}
+		.ilham_font-navbar{
+			font-family: BrandonGrotesque,sans-serif!important;
+			color: #333333!important;
+
+		}
+		.ilham_font-navbar2{
+			font-family: BrandonGrotesque,sans-serif!important;
+			color: #333333!important;
+			border: 1px solid #192c4f;
+			display: inline-block;
+			padding: 2px 3px 0px 3px;
+			margin-right: -15px;
+			border-radius: px;
+
+		}
+		.ilham_text-dec{
+			margin :30px 30px 30px 30px;
+		}
+======
+
 .banner {
   height: calc(100% - 4.5rem - 3.125rem);
   width: 18.125rem;
@@ -163,5 +165,5 @@ p {
 dl, ol, ul {
     margin-top: 0;
     margin-bottom: 1rem;
->>>>>>> syaratdanketentuan
+/*>>>>>>> syaratdanketentuan*/
 }
