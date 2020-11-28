@@ -1,139 +1,68 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> c290fd1ce4f77d11ddc9185d544c998ec1da822d
-.ilham_navbar{
-			display: flex;
-			justify-content: space-between;
-			position: fixed;
-			top: 0;
-			left: 0;
-			z-index: 13;
-			background-color: #fff;
-			box-shadow: 0 1px 2px 0 rgba(0,0,0,.1);
-			height: 85px;
-			width: 100%;
-
-		}
-		.ilham_isi-navbar{
-
-<<<<<<< HEAD
-		}
-		.ilham_jarak-navbar{
-			margin-top:10px;
-			margin-bottom: 10px; 
-		}
-		.ilham_position-sticky{
-			position: sticky;
-			bottom:-5px;
-			font-size: 20px;
-			background: #FFFFFF;
-			border: 1px solid black;
-
-		}
-		.ilham_margin-logo{
-			margin: 25px 0px 33px 90px; 
-
-		}
-		.ilham_margin-text{
-			margin: 50px 35px 0px 0px ;
-			padding-top: 30px;
-			display: inline;
-			text-align: center;
-			text-decoration: none;
-		}
-		.ilham_margin-text3{
-			margin: 50px 35px 0px -20px ;
-			padding: 30px 30px 20px 0px;
-			display: inline;
-			text-align: center;
-			text-decoration: none;
-		}
-		.ilham_margin-text2{
-			margin: 50px 10px 0px -20px ;
-			padding-top: 30px;
-			display: inline;
-			text-align: center;
-			text-decoration: none;
-		}
-		.ilham_font-navbar{
-			font-family: BrandonGrotesque,sans-serif!important;
-			color: #333333!important;
-
-		}
-		.ilham_font-navbar2{
-			font-family: BrandonGrotesque,sans-serif!important;
-			color: #333333!important;
-			border: 1px solid #192c4f;
-			display: inline-block;
-			padding: 2px 3px 0px 3px;
-			margin-right: -15px;
-			border-radius: px;
-
-		}
-		.ilham_text-dec{
-			margin :30px 30px 30px 30px;
-		}
-======
-=======
+.ilham_navbar {
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 13;
+  background-color: #fff;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+  height: 85px;
+  width: 100%;
 }
-.ilham_jarak-navbar{
-	margin-top:10px;
-	margin-bottom: 10px; 
+.ilham_isi-navbar {
 }
-.ilham_position-sticky{
-	position: sticky;
-	bottom:-5px;
-	font-size: 20px;
-	background: #FFFFFF;
-	border: 1px solid black;
-	
+.ilham_jarak-navbar {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
-.ilham_margin-logo{
-	margin: 25px 0px 33px 90px; 
-	
+.ilham_position-sticky {
+  position: sticky;
+  bottom: -5px;
+  font-size: 20px;
+  background: #ffffff;
+  border: 1px solid black;
 }
-.ilham_margin-text{
-	margin: 50px 35px 0px 0px ;
-	padding-top: 30px;
-	display: inline;
-	text-align: center;
-	text-decoration: none;
+.ilham_margin-logo {
+  margin: 25px 0px 33px 90px;
 }
-.ilham_margin-text3{
-	margin: 50px 35px 0px -20px ;
-	padding: 30px 30px 20px 0px;
-	display: inline;
-	text-align: center;
-	text-decoration: none;
+.ilham_margin-text {
+  margin: 50px 35px 0px 0px;
+  padding-top: 30px;
+  display: inline;
+  text-align: center;
+  text-decoration: none;
 }
-.ilham_margin-text2{
-	margin: 50px 10px 0px -20px ;
-	padding-top: 30px;
-	display: inline;
-	text-align: center;
-	text-decoration: none;
+.ilham_margin-text3 {
+  margin: 50px 35px 0px -20px;
+  padding: 30px 30px 20px 0px;
+  display: inline;
+  text-align: center;
+  text-decoration: none;
 }
-.ilham_font-navbar{
-	font-family: BrandonGrotesque,sans-serif!important;
-	color: #333333!important;
-	
+.ilham_margin-text2 {
+  margin: 50px 10px 0px -20px;
+  padding-top: 30px;
+  display: inline;
+  text-align: center;
+  text-decoration: none;
 }
-.ilham_font-navbar2{
-	font-family: BrandonGrotesque,sans-serif!important;
-	color: #333333!important;
-	border: 1px solid #192c4f;
-	display: inline-block;
-	padding: 2px 3px 0px 3px;
-	margin-right: -15px;
-	border-radius: px;
-	
+.ilham_font-navbar {
+  font-family: BrandonGrotesque, sans-serif !important;
+  color: #333333 !important;
 }
-.ilham_text-dec{
-	margin :30px 30px 30px 30px;
+.ilham_font-navbar2 {
+  font-family: BrandonGrotesque, sans-serif !important;
+  color: #333333 !important;
+  border: 1px solid #192c4f;
+  display: inline-block;
+  padding: 2px 3px 0px 3px;
+  margin-right: -15px;
+  border-radius: px;
 }
->>>>>>> c290fd1ce4f77d11ddc9185d544c998ec1da822d
+.ilham_text-dec {
+  margin: 30px 30px 30px 30px;
+}
 
 .banner {
   height: calc(100% - 4.5rem - 3.125rem);
@@ -186,49 +115,66 @@
 .term {
   padding-left: 119px;
   padding-right: 119px;
-  
 }
 
 .belakang {
-    margin: 0;
-    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.5;
-    color: #ddd;
-    text-align: left;
-    background-color: #222;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ddd;
+  text-align: left;
+  background-color: #222;
 }
 
-.h1, h1 {
-    font-size: 2.5rem;
+.h1,
+h1 {
+  font-size: 2.5rem;
 }
 
-.h4, h4 {
-    font-size: 1.5rem;
+.h4,
+h4 {
+  font-size: 1.5rem;
 }
 
-.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-    margin-bottom: .5rem;
-    font-weight: 500;
-    line-height: 1.2;
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  line-height: 1.2;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    margin-top: 0;
-    margin-bottom: .5rem;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
 }
 
 p {
-    margin-top: 0;
-    margin-bottom: 1rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
 }
 
-dl, ol, ul {
-    margin-top: 0;
-    margin-bottom: 1rem;
-<<<<<<< HEAD
-/*>>>>>>> syaratdanketentuan*/
-=======
->>>>>>> c290fd1ce4f77d11ddc9185d544c998ec1da822d
+dl,
+ol,
+ul {
+  margin-top: 0;
+  margin-bottom: 1rem;
 }
