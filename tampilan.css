@@ -1,0 +1,369 @@
+.ilham_navbar {
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 13;
+  background-color: #fff;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+  height: 85px;
+  width: 100%;
+}
+.ilham_isi-navbar {
+}
+.ilham_jarak-navbar {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.ilham_position-sticky {
+  position: sticky;
+  bottom: -5px;
+  font-size: 20px;
+  background: #ffffff;
+  border: 1px solid black;
+}
+.ilham_margin-logo {
+  margin: 25px 0px 33px 90px;
+}
+.ilham_margin-text {
+  margin: 50px 35px 0px 0px;
+  padding-top: 30px;
+  display: inline;
+  text-align: center;
+  text-decoration: none;
+}
+.ilham_margin-text3 {
+  margin: 50px 35px 0px -20px;
+  padding: 30px 30px 20px 0px;
+  display: inline;
+  text-align: center;
+  text-decoration: none;
+}
+.ilham_margin-text2 {
+  margin: 50px 10px 0px -20px;
+  padding-top: 30px;
+  display: inline;
+  text-align: center;
+  text-decoration: none;
+}
+.ilham_font-navbar {
+  font-family: BrandonGrotesque, sans-serif !important;
+  color: #333333 !important;
+}
+.ilham_font-navbar2 {
+  font-family: BrandonGrotesque, sans-serif !important;
+  color: #333333 !important;
+  border: 1px solid #192c4f;
+  display: inline-block;
+  padding: 2px 3px 0px 3px;
+  margin-right: -15px;
+  border-radius: px;
+}
+.ilham_text-dec {
+  margin: 30px 30px 30px 30px;
+}
+
+.banner {
+  height: calc(100% - 4.5rem - 3.125rem);
+  width: 18.125rem;
+  padding: 4.5rem 2.5rem 3.125rem;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  background-color: hsla(0, 0%, 100%, 0.97);
+}
+
+.banner-image {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.mini {
+  color: #666a6f;
+  font-size: 0.9375rem;
+  font-style: italic;
+  letter-spacing: 0.06875rem;
+}
+
+.text1 {
+  font-weight: 900;
+  line-height: 1.29;
+  letter-spacing: 0.05625rem;
+  color: #333;
+  font-size: 48px;
+}
+
+.more1 {
+  width: 135px;
+  height: 64px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background: white;
+  font-style: normal;
+  font-size: 1rem;
+}
+
+.term {
+  padding-left: 119px;
+  padding-right: 119px;
+}
+
+.belakang {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ddd;
+  text-align: left;
+  background-color: #222;
+}
+
+.h1,
+h1 {
+  font-size: 2.5rem;
+}
+
+.h4,
+h4 {
+  font-size: 1.5rem;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+dl,
+ol,
+ul {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.ilham_Footer-module-footer {
+      position: relative;
+      width: 100%;
+      overflow: hidden;
+    }
+    .ilham_Footer-module-footer .ilham_Footer-module-content {
+      padding-top: 3.125rem;
+      padding-bottom: 3.125rem;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      text-align: center;
+    }
+    .ilham_Footer-module-footer .ilham_Footer-module-content .ilham_Footer-module-logo {
+      width: 4.875rem;
+      height: auto;
+    }
+    .ilham_Footer-module-footer .ilham_Footer-module-content .ilham_Footer-module-text {
+      margin-top: 2.5rem;
+      padding: 0 2.5rem;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 56.25rem;
+      font-size: 1.125rem;
+      line-height: 1.5;
+      letter-spacing: .0125rem;
+      text-align: center;
+      color: #fff;
+    }
+    .ilham_Footer-module-footer .ilham_Footer-module-content .ilham_Footer-module-text {
+      margin-top: 2.5rem;
+      padding: 0 2.5rem;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 56.25rem;
+      font-size: 1.125rem;
+      line-height: 1.5;
+      letter-spacing: .0125rem;
+      text-align: center;
+      color: #fff;
+    }
+    .ilham_color{
+      color: black;
+    }
+    .ilham_Footer-module-footer .ilham_Footer-module-content .ilham_Footer-module-nav {
+      margin-top: 3.75rem;
+      display: -webkit-inline-box;
+      font-size: 1rem;
+      font-weight: 500;
+      letter-spacing: -.00625rem;
+      color: #fff;
+    }
+    .ilham_Footer-module-back {
+      position: absolute;
+      object-fit: cover;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      z-index: -1;
+    }
+    .ilham_Footer-module-footer .ilham_Footer-module-content .ilham_Footer-module-hr {
+      margin: 1.875rem auto;
+      width: 2.5rem;
+      height: .09375rem;
+      border-radius: .09375rem;
+      background-color: #ffd27e;
+    }
+    .ilham_Footer-module-footer .ilham_Footer-module-content .ilham_Footer-module-icon_group {
+      display: -webkit-inline-box;
+    }
+    .ilham_Footer-module-back {
+      position: absolute;
+      object-fit: cover;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      z-index: -1;
+    }
+    .ilham_Footer-module-footer .ilham_Footer-module-copy_right {
+      width: 100%;
+      background-color: #192c4f;
+    }
+    .ilham_Footer-module-block_back {
+      position: absolute;
+      bottom: -4.875rem;
+      height: 6.25rem;
+      width: 100%;
+      background-color: #192c4f;
+      z-index: -1;
+    }
+    img{
+      vertical-align: middle;
+    }
+    .ilham_Footer-module-text{
+      color: #FFF;
+    }
+    .aam{
+      
+    }
+    .Download-module-content {
+      position: absolute;
+      top: -5rem;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      padding-left: 5rem;
+      padding-right: 5rem;
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-align: center;
+      align-items: center;
+      /*margin-top: 200px;*/
+    }
+    .Download-module-content .Download-module-image_mobile {
+      width: 32.375rem;
+      height: auto;
+    }
+    .jarak{
+      margin-top: 1000px;
+    }
+    .jarak2{
+      margin-top: 1000px;
+    }
+    .Download-module-down {
+      position: relative;
+      background-color: #fff;
+      padding-top: 12.5rem;
+      padding-bottom: 14.6875rem;
+    }
+    .Download-module-white {
+      background-color: #f8fafb;
+      height: 25.625rem;
+      padding-left: 40.9375rem;
+      position: relative;
+    }
+    .Download-module-white .Download-module-description {
+      z-index: 3;
+      position: absolute;
+      padding-top: 3.125rem;
+      padding-bottom: 3.125rem;
+    }
+    .Download-module-div_title {
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-align: baseline;
+      align-items: baseline;
+      margin-left: 1.4375rem;
+    }
+    .Download-module-title {
+      font-size: 2.25rem;
+      font-weight: 700;
+      letter-spacing: .04375rem;
+      color: #333;
+    }
+    .Download-module-text {
+      margin-left: 1.4375rem;
+      margin-top: 1.875rem;
+      font-size: 1.25rem;
+      line-height: 1.78;
+      letter-spacing: .01875rem;
+      color: #333;
+    }
+    .Download-module-image_all {
+      margin-left: 1.4375rem;
+      margin-top: 3.125rem;
+      display: -ms-flexbox;
+      display: flex;
+    }
+    .Download-module-image_all .Download-module-image_store_play {
+      cursor: pointer;
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      -ms-flex-pack: justify;
+      justify-content: space-between;
+    }
+    .Download-module-image_all .Download-module-image_store_play .Download-module-store_play {
+      height: 3.125rem;
+      width: 11rem;
+    }
+    .Download-module-image_all .Download-module-qr {
+      margin-left: 1.3125rem;
+      height: 7.5rem;
+      width: auto;
+      cursor: none;
+    }
