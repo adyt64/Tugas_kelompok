@@ -1,0 +1,112 @@
+.nav-pict{
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: 85px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.but-klik{
+	margin-left: 900px;
+	margin-top: 15px;
+	color: #004189;
+	font-family: calibri;
+}
+.margintop{
+	margin-left: 85px;
+	margin-top: 30px;
+	font-size: 15px;
+	font-family: calibri;
+}
+.box{
+	max-width: 1300px;
+	width: 100%
+	min-width:1024px;
+	padding-right: 15px;
+	margin: 0 auto;
+	position: relative;
+}
+.float{
+	float: right;
+	display: inline-block;
+	margin-right: 85px;
+}
+.border-radius{
+	border:1px solid #000;
+	border-radius: 50px;
+	padding: 12px;
+	width: 250px;
+}
+.kontener{
+	display: inline-flex;
+	margin-left: 90px;
+	margin-top: 50px;
+	font-family: calibri;
+}
+.inputan{
+	margin-left: 85px;
+	padding:10px;
+	width: 250px;
+	font-family: calibri;
+}
+.radius{
+	padding: 10px;
+	width: 650px;
+}
+.inputan-2{
+	margin-left: 85px;
+	padding:10px;
+	width: 250px;
+	font-family: calibri;
+}
+.radius-2{
+	padding: 10px;
+	width: 650px;
+}
+.inputan-3{
+	margin-left: 85px;
+	padding:10px;
+	width: 250px;
+	font-family: calibri;
+}
+.radius-3{
+	padding: 10px;
+	width: 650px;
+	height: 50px;
+}
+.-border{
+	border:1px solid #000;
+	margin-left: 95px;
+	width: 650px;
+	padding: 10px;
+	height: 30px;
+	font-family: calibri;
+}
+.opsional{
+	margin-left: 95px;
+	font-family: calibri;
+}
+.top-margin{
+	margin-top: 150px;
+	width: 500px;
+}
+.button{
+	background:#00f;
+	margin-left: 95px;
+	margin-top: 30px;
+	padding: 10px 10px;
+	color: #fff;
+	border-radius:10px;
+	height: 50px;
+}
+.kapca{
+	color: #fff;
+	width: 200px;
+	height: 90px;
+	margin-left: 95px;
+	margin-top: 30px;
+}
+.pusat-bantuan{
+	margin-left: 95px;
+	margin-top: 90px;
+	margin-bottom: 90px
+}
