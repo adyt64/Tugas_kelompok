@@ -279,3 +279,91 @@ ul {
     .aam{
       
     }
+    .Download-module-content {
+      position: absolute;
+      top: -5rem;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      padding-left: 5rem;
+      padding-right: 5rem;
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-align: center;
+      align-items: center;
+      /*margin-top: 200px;*/
+    }
+    .Download-module-content .Download-module-image_mobile {
+      width: 32.375rem;
+      height: auto;
+    }
+    .jarak{
+      margin-top: 1000px;
+    }
+    .jarak2{
+      margin-top: 1000px;
+    }
+    .Download-module-down {
+      position: relative;
+      background-color: #fff;
+      padding-top: 12.5rem;
+      padding-bottom: 14.6875rem;
+    }
+    .Download-module-white {
+      background-color: #f8fafb;
+      height: 25.625rem;
+      padding-left: 40.9375rem;
+      position: relative;
+    }
+    .Download-module-white .Download-module-description {
+      z-index: 3;
+      position: absolute;
+      padding-top: 3.125rem;
+      padding-bottom: 3.125rem;
+    }
+    .Download-module-div_title {
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-align: baseline;
+      align-items: baseline;
+      margin-left: 1.4375rem;
+    }
+    .Download-module-title {
+      font-size: 2.25rem;
+      font-weight: 700;
+      letter-spacing: .04375rem;
+      color: #333;
+    }
+    .Download-module-text {
+      margin-left: 1.4375rem;
+      margin-top: 1.875rem;
+      font-size: 1.25rem;
+      line-height: 1.78;
+      letter-spacing: .01875rem;
+      color: #333;
+    }
+    .Download-module-image_all {
+      margin-left: 1.4375rem;
+      margin-top: 3.125rem;
+      display: -ms-flexbox;
+      display: flex;
+    }
+    .Download-module-image_all .Download-module-image_store_play {
+      cursor: pointer;
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      -ms-flex-pack: justify;
+      justify-content: space-between;
+    }
+    .Download-module-image_all .Download-module-image_store_play .Download-module-store_play {
+      height: 3.125rem;
+      width: 11rem;
+    }
+    .Download-module-image_all .Download-module-qr {
+      margin-left: 1.3125rem;
+      height: 7.5rem;
+      width: auto;
+      cursor: none;
+    }
