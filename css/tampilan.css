@@ -24,7 +24,9 @@
   border: 1px solid black;
 }
 .ilham_margin-logo {
-  margin: 25px 0px 33px 90px;
+  margin: 28px 0px 33px 100px;
+  width: 100px;
+  height: 30px;
 }
 .ilham_margin-text {
   margin: 50px 35px 0px 0px;
@@ -65,8 +67,8 @@
 }
 
 .banner {
-  height: calc(100% - 4.5rem - 3.125rem);
-  width: 18.125rem;
+  height: 509px;
+  width: 480px;
   padding: 4.5rem 2.5rem 3.125rem;
   display: -ms-flexbox;
   display: flex;
@@ -79,6 +81,7 @@
   top: 0;
   left: 0;
   background-color: hsla(0, 0%, 100%, 0.97);
+  margin-top: 75px;
 }
 
 .banner-image {
@@ -89,9 +92,11 @@
 
 .mini {
   color: #666a6f;
-  font-size: 0.9375rem;
+  font-size: 13px;
   font-style: italic;
   letter-spacing: 0.06875rem;
+  margin-top: 60px;
+  margin-left: 50px;
 }
 
 .text1 {
@@ -99,7 +104,9 @@
   line-height: 1.29;
   letter-spacing: 0.05625rem;
   color: #333;
-  font-size: 48px;
+  font-size: 2.625rem;
+  margin-left: 50px;
+  margin-top: 1px;
 }
 
 .more1 {
@@ -109,7 +116,10 @@
   border-radius: 5px;
   background: white;
   font-style: normal;
-  font-size: 1rem;
+  font-size: 15px;
+  margin-bottom: 190px;
+  margin-left: 50px;
+  font-weight: 100px;
 }
 
 .term {
@@ -177,4 +187,8 @@ ol,
 ul {
   margin-top: 0;
   margin-bottom: 1rem;
+}
+
+.posisi-konten {
+  margin-top: 75px;
 }

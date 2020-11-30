@@ -1,0 +1,83 @@
+.TAMcarousel img{
+	user-drag: none;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-drag: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+}
+
+
+.TAMcarousel{
+position: relative;
+width: 100%;
+height: 100%;
+overflow: hidden;
+margin: 0;
+}
+
+.TAMcarousel img{
+max-width: 100%;
+height: 100%;
+margin: 0;
+display: flexbox;
+}
+
+.TAMcarousel .slide{
+width: 100%;
+height: 100%;
+position: absolute;
+top: 0;
+left: -100%;
+margin: 0;
+}
+
+.TAMcarousel #slide1{
+left: -100%;
+}
+
+.TAMcarousel #slide2{
+left: 0;
+}
+
+.TAMcarousel #slide3{
+left: 100%;
+}
+
+.TAMcarousel #slide4{
+left: 100%;
+}
+
+.TAMcarousel .left-container, .TAMcarousel .right-container{
+position: absolute;
+top: 270px;
+z-index: 2;
+width: 20%;
+height: 100%;
+background: rgba(0, 0, 0, 0.20);
+}
+
+.TAMcarousel .left-container{
+	width: 42px;
+	height: 50px;
+	left: 560px;
+}
+
+.TAMcarousel .right-container{
+	right: 0;
+	width: 42px;
+	height: 50px;
+}
+
+.TAMcarousel .left-btn, .TAMcarousel .right-btn{
+width: 23px;
+height: 22px;
+position: absolute;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+margin: auto;
+cursor: pointer;
+margin-left: 8px;
+}
