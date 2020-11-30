@@ -178,3 +178,192 @@ ul {
   margin-top: 0;
   margin-bottom: 1rem;
 }
+
+.ilham_Footer-module-footer {
+      position: relative;
+      width: 100%;
+      overflow: hidden;
+    }
+    .ilham_Footer-module-footer .ilham_Footer-module-content {
+      padding-top: 3.125rem;
+      padding-bottom: 3.125rem;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      text-align: center;
+    }
+    .ilham_Footer-module-footer .ilham_Footer-module-content .ilham_Footer-module-logo {
+      width: 4.875rem;
+      height: auto;
+    }
+    .ilham_Footer-module-footer .ilham_Footer-module-content .ilham_Footer-module-text {
+      margin-top: 2.5rem;
+      padding: 0 2.5rem;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 56.25rem;
+      font-size: 1.125rem;
+      line-height: 1.5;
+      letter-spacing: .0125rem;
+      text-align: center;
+      color: #fff;
+    }
+    .ilham_Footer-module-footer .ilham_Footer-module-content .ilham_Footer-module-text {
+      margin-top: 2.5rem;
+      padding: 0 2.5rem;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 56.25rem;
+      font-size: 1.125rem;
+      line-height: 1.5;
+      letter-spacing: .0125rem;
+      text-align: center;
+      color: #fff;
+    }
+    .ilham_color{
+      color: black;
+    }
+    .ilham_Footer-module-footer .ilham_Footer-module-content .ilham_Footer-module-nav {
+      margin-top: 3.75rem;
+      display: -webkit-inline-box;
+      font-size: 1rem;
+      font-weight: 500;
+      letter-spacing: -.00625rem;
+      color: #fff;
+    }
+    .ilham_Footer-module-back {
+      position: absolute;
+      object-fit: cover;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      z-index: -1;
+    }
+    .ilham_Footer-module-footer .ilham_Footer-module-content .ilham_Footer-module-hr {
+      margin: 1.875rem auto;
+      width: 2.5rem;
+      height: .09375rem;
+      border-radius: .09375rem;
+      background-color: #ffd27e;
+    }
+    .ilham_Footer-module-footer .ilham_Footer-module-content .ilham_Footer-module-icon_group {
+      display: -webkit-inline-box;
+    }
+    .ilham_Footer-module-back {
+      position: absolute;
+      object-fit: cover;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      z-index: -1;
+    }
+    .ilham_Footer-module-footer .ilham_Footer-module-copy_right {
+      width: 100%;
+      background-color: #192c4f;
+    }
+    .ilham_Footer-module-block_back {
+      position: absolute;
+      bottom: -4.875rem;
+      height: 6.25rem;
+      width: 100%;
+      background-color: #192c4f;
+      z-index: -1;
+    }
+    img{
+      vertical-align: middle;
+    }
+    .ilham_Footer-module-text{
+      color: #FFF;
+    }
+    .aam{
+      
+    }
+    .Download-module-content {
+      position: absolute;
+      top: -5rem;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      padding-left: 5rem;
+      padding-right: 5rem;
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-align: center;
+      align-items: center;
+      /*margin-top: 200px;*/
+    }
+    .Download-module-content .Download-module-image_mobile {
+      width: 32.375rem;
+      height: auto;
+    }
+    .jarak{
+      margin-top: 1000px;
+    }
+    .jarak2{
+      margin-top: 1000px;
+    }
+    .Download-module-down {
+      position: relative;
+      background-color: #fff;
+      padding-top: 12.5rem;
+      padding-bottom: 14.6875rem;
+    }
+    .Download-module-white {
+      background-color: #f8fafb;
+      height: 25.625rem;
+      padding-left: 40.9375rem;
+      position: relative;
+    }
+    .Download-module-white .Download-module-description {
+      z-index: 3;
+      position: absolute;
+      padding-top: 3.125rem;
+      padding-bottom: 3.125rem;
+    }
+    .Download-module-div_title {
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-align: baseline;
+      align-items: baseline;
+      margin-left: 1.4375rem;
+    }
+    .Download-module-title {
+      font-size: 2.25rem;
+      font-weight: 700;
+      letter-spacing: .04375rem;
+      color: #333;
+    }
+    .Download-module-text {
+      margin-left: 1.4375rem;
+      margin-top: 1.875rem;
+      font-size: 1.25rem;
+      line-height: 1.78;
+      letter-spacing: .01875rem;
+      color: #333;
+    }
+    .Download-module-image_all {
+      margin-left: 1.4375rem;
+      margin-top: 3.125rem;
+      display: -ms-flexbox;
+      display: flex;
+    }
+    .Download-module-image_all .Download-module-image_store_play {
+      cursor: pointer;
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      -ms-flex-pack: justify;
+      justify-content: space-between;
+    }
+    .Download-module-image_all .Download-module-image_store_play .Download-module-store_play {
+      height: 3.125rem;
+      width: 11rem;
+    }
+    .Download-module-image_all .Download-module-qr {
+      margin-left: 1.3125rem;
+      height: 7.5rem;
+      width: auto;
+      cursor: none;
+    }
