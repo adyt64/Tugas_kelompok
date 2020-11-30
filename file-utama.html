@@ -4,21 +4,30 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/png" href="img/logo.png" />
+    <link rel="stylesheet" type="text/css" href="css\tampilan.css" />
     <!--Update Adyt-->
     <title>TIX ID - Aplikasi Pembelian Tiket biosko di Indonesia</title>
     <link href="css/tampilan.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/reset.css" />
+    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="stylesheet" href="css/TAMcarousel.css" />
+    <link
+      href="https://www.jqueryscript.net/css/jquerysctipttop.css"
+      rel="stylesheet"
+      type="text/css"
+    />
   </head>
   <body>
     <div class="ilham_navbar">
-    <img class="ilham_margin-logo" src="img\logo-tix_id.png" width="90px">
+      <img class="ilham_margin-logo" src="img\logo-tix_id.png" width="90px">
     <ul class="ilham_text-dec">
-      <a href="" class="ilham_margin-text">
+      <a href="file-utama.html" class="ilham_margin-text">
         <span class="ilham_font-navbar">
           Home
         </span>  
       </a>
       <a href="" class="ilham_margin-text">
-        <span class="ilham_font-navbar2avbar">
+        <span class="ilham_font-navbar">
           Fitur
         </span>  
       </a>
@@ -37,7 +46,7 @@
           Unduh
         </span> 
       </a>
-      <a href="" class="ilham_margin-text">
+      <a href="karir.html" class="ilham_margin-text">
         <span class="ilham_font-navbar">
           Karir
         </span> 
@@ -57,7 +66,47 @@
           ID
         </span> 
       </a>
-    </ul> </div>
+    </ul> 
+  </div>
+
+    <div class="posisi-konten">
+      <div class="banner">
+        <div class="mini">News Update!</div>
+        <div class="text1">We are here to help you!</div>
+        <button type="button" class="more1">More Info</button>
+      </div>
+      <div id="carousel1" class="TAMcarousel">
+        <div class="left-container">
+          <img
+            class="left-btn"
+            src="img/arrowleftwhite.png"
+            alt="arrow-left.jpg"
+          />
+        </div>
+        <div class="right-container">
+          <img
+            class="right-btn"
+            src="img/arrowrightwhite.png"
+            alt="arrow-right.jpg"
+          />
+        </div>
+
+        <div id="slide1" class="slide">
+          <img src="img/3.jpg" alt="img1" />
+        </div>
+
+        <div id="slide2" class="slide">
+          <img src="img/1.jpg" alt="img2" />
+        </div>
+
+        <div id="slide3" class="slide">
+          <img src="img/2.jpg" alt="img3" />
+        </div>
+
+        <div class="clear"></div>
+      </div>
+    </div>
+
     <div class="Download-module-down">
       <div class="Download-module-white">
         <div class="Download-module-description">
@@ -89,7 +138,7 @@
         <span class="ilham_Footer-module-text">TIX ID adalah aplikasi pemesanan tiket film terkemuka dari Indonesia. Pesan tiket film Anda, baca berita film terbaru dengan mudah, cepat & aman tanpa kerumitan.</span> </div>
         <ul class="ilham_Footer-module-nav"> 
           <li>
-            <a href="">
+            <a href="contact_us.html">
               <span class="ilham_Footer-module-text"> HUBUNGI KAMI</span> 
             </a>  
           </li >  
@@ -99,7 +148,7 @@
             </a>  
           </li >  
           <li>
-            <a href="">
+            <a href="kebijakan_privasi.html">
               <span class="ilham_Footer-module-text"> KEBIJAKAN PRIVASI & FAQ</span> 
             </a>  
           </li > 
@@ -120,6 +169,11 @@
       <div class="ilham_Footer-module-block_back"> </div>
     </div>
     <div class=""> </div>
-    
+    <script
+      src="https://code.jquery.com/jquery-1.12.4.min.js"
+      integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ"
+      crossorigin="anonymous"
+    ></script>
+    <script src="js/TAMcarousel.js"></script>
   </body>
 </html>
