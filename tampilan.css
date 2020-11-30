@@ -24,7 +24,9 @@
   border: 1px solid black;
 }
 .ilham_margin-logo {
-  margin: 25px 0px 33px 90px;
+  margin: 28px 0px 33px 100px;
+  width: 100px;
+  height: 30px;
 }
 .ilham_margin-text {
   margin: 50px 35px 0px 0px;
@@ -65,8 +67,8 @@
 }
 
 .banner {
-  height: calc(100% - 4.5rem - 3.125rem);
-  width: 18.125rem;
+  height: 509px;
+  width: 480px;
   padding: 4.5rem 2.5rem 3.125rem;
   display: -ms-flexbox;
   display: flex;
@@ -79,6 +81,7 @@
   top: 0;
   left: 0;
   background-color: hsla(0, 0%, 100%, 0.97);
+  margin-top: 75px;
 }
 
 .banner-image {
@@ -89,9 +92,11 @@
 
 .mini {
   color: #666a6f;
-  font-size: 0.9375rem;
+  font-size: 13px;
   font-style: italic;
   letter-spacing: 0.06875rem;
+  margin-top: 60px;
+  margin-left: 50px;
 }
 
 .text1 {
@@ -99,7 +104,9 @@
   line-height: 1.29;
   letter-spacing: 0.05625rem;
   color: #333;
-  font-size: 48px;
+  font-size: 2.625rem;
+  margin-left: 50px;
+  margin-top: 1px;
 }
 
 .more1 {
@@ -109,7 +116,10 @@
   border-radius: 5px;
   background: white;
   font-style: normal;
-  font-size: 1rem;
+  font-size: 15px;
+  margin-bottom: 190px;
+  margin-left: 50px;
+  font-weight: 100px;
 }
 
 .term {
@@ -179,6 +189,9 @@ ul {
   margin-bottom: 1rem;
 }
 
+.posisi-konten {
+  margin-top: 75px;
+}
 .ilham_Footer-module-footer {
       position: relative;
       width: 100%;
@@ -367,3 +380,159 @@ ul {
       width: auto;
       cursor: none;
     }
+    .nav-pict{
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 85px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.but-klik{
+  margin-left: 900px;
+  margin-top: 15px;
+  color: #004189;
+  font-family: calibri;
+  text-decoration: none;
+}
+.margintop{
+  margin-left: 85px;
+  margin-top: 30px;
+  font-size: 15px;
+  font-family: calibri;
+  text-decoration: none;
+}
+.box{
+  max-width: 1300px;
+  width: 100%
+  min-width:1024px;
+  padding-right: 15px;
+  margin: 0 auto;
+  position: relative;
+}
+.float{
+  float: right;
+  display: inline-block;
+  margin-right: 85px;
+}
+.border-radius{
+  border:1px solid #000;
+  border-radius: 50px;
+  padding: 12px;
+  width: 250px;
+}
+.kontener{
+  display: inline-flex;
+  margin-left: 90px;
+  margin-top: 50px;
+  font-family: calibri;
+  text-decoration: none;
+}
+.inputan{
+  margin-left: 85px;
+  padding:10px;
+  width: 250px;
+  font-family: calibri;
+  text-decoration: none;
+}
+.radius{
+  padding: 10px;
+  width: 650px;
+}
+.inputan-2{
+  margin-left: 85px;
+  padding:10px;
+  width: 250px;
+  font-family: calibri;
+  text-decoration: none;
+}
+.radius-2{
+  padding: 10px;
+  width: 650px;
+}
+.inputan-3{
+  margin-left: 85px;
+  padding:10px;
+  font-family: calibri;
+  text-decoration: none;
+}
+.radius-3{
+  padding: 10px 10px 150px 10px;
+  width: 650px;
+  height: 50px;
+}
+.-border{
+  border:1px solid #000;
+  margin-left: 95px;
+  width: 650px;
+  padding: 10px;
+  height: 30px;
+  font-family: calibri;
+  text-decoration: none;
+}
+.opsional{
+  margin-left: 95px;
+  font-family: calibri;
+  text-decoration: none;
+}
+.top-margin{
+  margin-top: 150px;
+  width: 500px;
+}
+.button{
+  background:#00f;
+  margin-left: 95px;
+  margin-top: 30px;
+  padding: 10px 10px;
+  color: #fff;
+  border-radius:10px;
+  height: 50px;
+}
+.kapca{
+  color: #fff;
+  width: 200px;
+  height: 90px;
+  margin-left: 95px;
+  margin-top: 30px;
+}
+.pusat-bantuan{
+  margin-left: 95px;
+  margin-top: 90px;
+  margin-bottom: 90px
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.form-field p {
+    color: #666;
+    font-size: 12px;
+    margin: 5px 0;
+}
+.ilham_text{
+  text-decoration: none;
+  margin-left: 20px;
+  color: blue;
+}
+.ilham_text2{
+  text-decoration: none;
+  margin-left: 20px;
+  color: #666;
+}
+
+.button-large, input[type="submit"] {
+    cursor: pointer;
+    background-color: #0072EF;
+    border: 0;
+    border-radius: 4px;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: 0;
+    line-height: 2.72;
+    min-width: 190px;
+    padding: 0 2px;
+    width: 50%;
+    margin-left: 100px;
+}
